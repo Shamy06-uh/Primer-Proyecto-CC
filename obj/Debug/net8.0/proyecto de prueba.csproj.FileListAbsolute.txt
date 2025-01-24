@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.AssemblyInfo.cs
+C:\Users\DELL\Desktop\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\proyecto 1\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\proyecto 1\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\proyecto 1\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.AssemblyInfo.cs
+C:\Users\DELL\Desktop\proyecto 1\proyecto de prueba\obj\Debug\net8.0\proyecto de prueba.csproj.CoreCompileInputs.cache
