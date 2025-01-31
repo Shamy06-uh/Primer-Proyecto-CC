@@ -1,0 +1,17 @@
+C:\Elio\obj\Debug\net9.0\Elio.csproj.AssemblyReference.cache
+C:\Elio\obj\Debug\net9.0\Elio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Elio\obj\Debug\net9.0\Elio.AssemblyInfoInputs.cache
+C:\Elio\obj\Debug\net9.0\Elio.AssemblyInfo.cs
+C:\Elio\obj\Debug\net9.0\Elio.csproj.CoreCompileInputs.cache
+C:\Elio\bin\Debug\net9.0\Elio.exe
+C:\Elio\bin\Debug\net9.0\Elio.deps.json
+C:\Elio\bin\Debug\net9.0\Elio.runtimeconfig.json
+C:\Elio\bin\Debug\net9.0\Elio.dll
+C:\Elio\bin\Debug\net9.0\Elio.pdb
+C:\Elio\bin\Debug\net9.0\Spectre.Console.dll
+C:\Elio\obj\Debug\net9.0\Elio.csproj.Up2Date
+C:\Elio\obj\Debug\net9.0\Elio.dll
+C:\Elio\obj\Debug\net9.0\refint\Elio.dll
+C:\Elio\obj\Debug\net9.0\Elio.pdb
+C:\Elio\obj\Debug\net9.0\Elio.genruntimeconfig.cache
+C:\Elio\obj\Debug\net9.0\ref\Elio.dll
